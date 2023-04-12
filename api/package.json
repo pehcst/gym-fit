@@ -9,7 +9,7 @@
     "migrate": "knex migrate:latest",
     "seed": "knex seed:run"
   },
-  "author": "Iury e Felipe Gonçalves",
+  "author": "Gym Fit",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",

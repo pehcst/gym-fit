@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "title": "Gym API",
-    "description": "API desenvolvida por Iury e Felipe.",
+    "description": "Gym Fit API Documentation",
     "version": "1.0.0",
     "contact": {
       "email": "gymfit@gmail.com"
