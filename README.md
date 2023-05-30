@@ -1,17 +1,5 @@
 <h1 align="center">🏋️‍♀️ Gym Fit 🏋️‍♀️</h1>
 
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/pehcst/gym-fit">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pehcst/gym-fit">
-
- <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/pehcst/gym-fit">
-
-  <a href="https://github.com/GabrielGuedess/Ignite-Gym/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pehcst/gym-fit">
-  </a>
-</p>
-
 <br />
 
 <p align="center">
